@@ -1,4 +1,11 @@
+## Olá, eu me chamo Kevyn e estou cursando TI 😎
 
+- ⚡ Atualmente estou trabalhando na empresa Arcelormittal
+- ⚡ Atualmente estou aprendendo a linguagem python
+- ⚡ Estou procurando ajuda com a limguagem java
+- ⚡ Pergunte-me sobre oque quiser
+- ⚡ Curiosidade: gosto de eletromecanica
+- ⚡ gosto de animes e assuntos geek
 
 [![stats](https://github-readme-stats.vercel.app/api?username=godset190&hide=prs&show_icons=true&rank_icon=github&bg_color=00000000&text_color=2ec1ef&title_color=2ec1ef&icon_color=1118e7&border_color=1118e7)](https://github.com/godset190/github-readme-stats)
 

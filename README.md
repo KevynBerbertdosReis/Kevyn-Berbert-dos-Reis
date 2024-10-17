@@ -1,7 +1,7 @@
-## Olá, eu me chamo Kevyn e estou cursando TI 😎
+## Olá, eu me chamo Kevyn e sou formado em TI 😎
 
 - ⚡ Atualmente estou trabalhando na empresa Arcelormittal
-- ⚡ Atualmente estou aprendendo a linguagem python
+- ⚡ Atualmente estou estudando FullStack
 - ⚡ Estou procurando ajuda com a limguagem java
 - ⚡ Pergunte-me sobre oque quiser
 - ⚡ Curiosidade: gosto de programação
